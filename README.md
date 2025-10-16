@@ -1,2 +1,2 @@
-# Diffsuion TPP for Event Prediction
+# Diffusion TPP for Event Prediction
 An Unoffical Implementation of the paper "[Non-Autoregressive Diffusion based TPP for Continuous Long Term EventPrediction](https://arxiv.org/abs/2311.01033)"
